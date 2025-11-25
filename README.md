@@ -38,7 +38,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/cloudflare-ip-collector.git
+   git clone https://github.com/yumingyuan2/CF-Worker-BestIP-collector.git
    cd cloudflare-ip-collector
    ```
 
