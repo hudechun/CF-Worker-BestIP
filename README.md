@@ -39,7 +39,7 @@
 1. **克隆项目**
    ```bash
    git clone https://github.com/yumingyuan2/CF-Worker-BestIP-collector.git
-   cd cloudflare-ip-collector
+   cd CF-Worker-BestIP-collector
    ```
 
 2. **创建 KV 命名空间**
