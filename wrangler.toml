@@ -4,3 +4,4 @@ main = "_worker.js"
 [[kv_namespaces]]
 binding = "IP_STORAGE"
 id = "kv-2026-01-01_12-31-17"
+
