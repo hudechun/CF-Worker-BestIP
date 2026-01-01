@@ -1,6 +1,6 @@
 name = "paopao"
 compatibility_date = "2026-01-01"
-main = "_worker.js"
+main = "_workers.js"
 [[kv_namespaces]]
 binding = "IP_STORAGE"
 id = "kv-2026-01-01_12-31-17"
