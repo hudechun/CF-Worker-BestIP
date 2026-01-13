@@ -1,4 +1,4 @@
-name = "paopao"
+name = "zhuihaodeip"
 compatibility_date = "2026-01-01"
 main = "_workers.js"
 [[kv_namespaces]]
